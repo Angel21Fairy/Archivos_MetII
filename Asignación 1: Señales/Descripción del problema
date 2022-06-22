@@ -1,0 +1,7 @@
+Esta asignación tiene por objeto mostrar algunas aplicaciones de las series y transformadas de Fourier. Esta asignación tiene dos etapas. La primera constituye un calentamiento para comprobar algunos de los conceptos que discutimos en clase. La segunda fase es "un trabajo de campo" la aplicación de esos conceptos a señales reales.
+
+En esta carpeta encontrarán varios archivos que vienen descritos en el ReadMEDatos
+
+Su misión y decidieron aceptarla es investigar si un evento, visto desde varias antenas, conserva su identidad espectral. Vale decir, algunas características del espectro de potencia de Fourier puede ser identificado desde distintas antenas. Para ello utilicen las columna 2 y 3( x=tiempo_corregido y y= señal, respectivamente)
+
+Explore y hacer un espectrograma con estas señales puede ayudar.
